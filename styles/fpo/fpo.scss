@@ -1,0 +1,91 @@
+$logo-filename: "../../styles/brandPacks/fpo/fpo-logo-130x47.png";
+$logo-width: 130px;
+$logo-height: 47px;
+$body-bg: #fff;
+$header-margin: 0 0 0 2.813rem;
+
+/* main theme: the following fields are themed to be equal */
+$header-bg: #02588E;
+$brando-box-color: #02588E;
+$thinking-base: #02588E;
+$home-submit-bg: #02588E;
+/* theme end */
+
+$headings: #8a8c8e;
+
+/* feedback form */
+$feedback-background: #fff;
+$feedback-border: #e8e8e8;
+$feedback-select-border: #D4D5D6;
+$feedback-select-bg: #f5f5f5;
+$feedback-option-bg: #f5f5f5;
+$feedback-select-color: #6F6F6F;
+$feedback-option-border-bottom: #D4D5D6;
+$feedback-input-background: #f5f5f5;
+$feedback-textarea-background: #D4D5D6;
+$feedback-textarea-color: #3f3f3f;
+$feedback-submit-bg: #D4D5D6;
+$feedback-h1: #333333;
+$feedback-message: #333;
+$feedback-closer-color: #e8e8e8;
+
+$message-color: #FFF;
+$message-arrow: #FFF;
+
+$home-background: #F4F4F4;
+$home-border: #e8e8e8;
+$home-buttons-uniform: #fff;
+$home-inputs-border: #D4D5D6;
+$home-select-bg: #f5f5f5;
+$home-inputbar-bg: #335c7f;
+$home-select-color: #6F6F6F;
+$home-option-border-bottom: #D4D5D6;
+$home-inputs-background: #f5f5f5;
+$home-p-color: #231f20;
+$home-closer-color: #e8e8e8;
+
+/* qa or question & answer */
+$question-home: #FFF;
+$home-h1-qa: #231f20;
+
+/* twitter */
+$home-h1-twitter: #231f20;
+$twitter-handle: #9D9D9D;
+
+/* text (essay, speech) */
+$home-h1-text: #231f20;
+$sample-speech: #E8E8E8;
+$sample-speech-light: #F6F6F6;
+$sample-speech-img: #AFB0B1;
+$sample-speech-img-light: #C6C7C8;
+
+/* How Watson and footer */
+$howwatson-bg: #F4F4F4;
+$howwatson-color: #000;
+$how-d-block-bg: #397E7D;
+$footer-button-bg: #f5f5f5;
+$footer-button-bg-hover: #272b2f;
+$footer-button-color: #181b1e;
+$footer-button-color-hover: #f5f5f5;
+$footer-button-border: #878787;
+$footer-logo-fill: #000;
+
+$personality-container: #181b1e;
+
+/* playlist and player ($control-buttons-label must contrast with $player-bg) */
+$playlistHeader: #000;
+$playlistHighlight: #F4F4F4;
+$player-bg: #fff;
+$player-tertiary-bg: #f4f4f4;
+$control-buttons-label: #000;
+$control-button-fill: #918F8F;
+$control-button-bg: #212427;
+
+/* welcome (login) screen */
+$welcome-header-bg: $header-bg;
+$welcome-bg-1: #fff;
+$welcome-bg-2: #fff;
+$welcome-bg-3: #fff;
+$welcome-watson-button: #000;
+$login-container: #000;
+$slider-icon-color: #000;
